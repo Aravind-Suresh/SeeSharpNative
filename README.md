@@ -7,6 +7,7 @@ The program is written is C++
 
 ```
 OpenCV 3.0.0
+OpenCV Contrib module
 ```
 To have a look into how the app works, clone the repository. Then,
 
